@@ -1,0 +1,302 @@
+[19:19:19] [main/INFO]: ModLauncher running: args [--username, whyte_noyze, --version, forge-47.4.10, --gameDir, C:\Users\steph\curseforge\minecraft\Instances\villager shit, --assetsDir, C:\Users\steph\curseforge\minecraft\Install\assets, --assetIndex, 5, --uuid, abcc9d1aa85f4cbcb20ab25f410cb399, --accessToken, ????????, --clientId, YWIyNDJiMjQtMzczNi00OWU3LWFjYTctZTcwMTFkMjE4ZTE5, --xuid, 2535473805375183, --userType, msa, --versionType, release, --width, 1024, --height, 768, --quickPlayPath, C:\Users\steph\curseforge\minecraft\Install\quickPlay\java\1778109557137.json, --launchTarget, forgeclient, --fml.forgeVersion, 47.4.10, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[19:19:19] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Microsoft; OS Windows 11 arch amd64 version 10.0
+[19:19:19] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[19:19:19] [main/INFO]: Trying GL version 4.6
+[19:19:19] [main/INFO]: Requested GL version 4.6 got version 4.6
+[19:19:19] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/steph/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23100!/ Service=ModLauncher Env=CLIENT
+[19:19:20] [pool-2-thread-1/INFO]: GL info: NVIDIA GeForce RTX 4060/PCIe/SSE2 GL version 4.6.0 NVIDIA 591.86, NVIDIA Corporation
+[19:19:20] [main/INFO]: Found mod file architectury-9.2.14-forge.jar of type MOD with provider {mods folder locator at C:\Users\steph\curseforge\minecraft\Instances\villager shit\mods}
+[19:19:20] [main/INFO]: Found mod file easy_mob_spawn_control-1.1.5.jar of type MOD with provider {mods folder locator at C:\Users\steph\curseforge\minecraft\Instances\villager shit\mods}
+[19:19:20] [main/INFO]: Found mod file kotlinforforge-4.12.0-all.jar of type LIBRARY with provider {mods folder locator at C:\Users\steph\curseforge\minecraft\Instances\villager shit\mods}
+[19:19:20] [main/INFO]: Found mod file kubejs-forge-2001.6.5-build.26.jar of type MOD with provider {mods folder locator at C:\Users\steph\curseforge\minecraft\Instances\villager shit\mods}
+[19:19:20] [main/INFO]: Found mod file recruits-1.20.1-1.15.0.jar of type MOD with provider {mods folder locator at C:\Users\steph\curseforge\minecraft\Instances\villager shit\mods}
+[19:19:20] [main/INFO]: Found mod file rhino-forge-2001.2.3-build.10.jar of type MOD with provider {mods folder locator at C:\Users\steph\curseforge\minecraft\Instances\villager shit\mods}
+[19:19:20] [main/INFO]: Found mod file tacz-1.20.1-1.1.7-hotfix2.jar of type MOD with provider {mods folder locator at C:\Users\steph\curseforge\minecraft\Instances\villager shit\mods}
+[19:19:20] [main/INFO]: Found mod file tacz-tweaks-2.13.2-all.jar of type MOD with provider {mods folder locator at C:\Users\steph\curseforge\minecraft\Instances\villager shit\mods}
+[19:19:20] [main/INFO]: Found mod file tlc_forge-1.0.3-R-1.20.X.jar of type MOD with provider {mods folder locator at C:\Users\steph\curseforge\minecraft\Instances\villager shit\mods}
+[19:19:20] [main/INFO]: Found mod file UndeadNights-2.1.0-Forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\steph\curseforge\minecraft\Instances\villager shit\mods}
+[19:19:20] [main/INFO]: Found mod file yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\steph\curseforge\minecraft\Instances\villager shit\mods}
+[19:19:20] [main/INFO]: Found mod file zume-1.2.2.jar of type MOD with provider {mods folder locator at C:\Users\steph\curseforge\minecraft\Instances\villager shit\mods}
+[19:19:20] [main/WARN]: Mod file C:\Users\steph\curseforge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.20.1-47.4.10\fmlcore-1.20.1-47.4.10.jar is missing mods.toml file
+[19:19:20] [main/WARN]: Mod file C:\Users\steph\curseforge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.4.10\javafmllanguage-1.20.1-47.4.10.jar is missing mods.toml file
+[19:19:20] [main/WARN]: Mod file C:\Users\steph\curseforge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.4.10\lowcodelanguage-1.20.1-47.4.10.jar is missing mods.toml file
+[19:19:20] [main/WARN]: Mod file C:\Users\steph\curseforge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.20.1-47.4.10\mclanguage-1.20.1-47.4.10.jar is missing mods.toml file
+[19:19:20] [main/INFO]: Found mod file fmlcore-1.20.1-47.4.10.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d8126f
+[19:19:20] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.4.10.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d8126f
+[19:19:20] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.4.10.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d8126f
+[19:19:20] [main/INFO]: Found mod file mclanguage-1.20.1-47.4.10.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d8126f
+[19:19:20] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d8126f
+[19:19:20] [main/INFO]: Found mod file forge-1.20.1-47.4.10-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d8126f
+[19:19:20] [main/INFO]: Found 19 dependencies adding them to mods collection
+[19:19:20] [main/INFO]: Found mod file bcel-6.6.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2b917fb0
+[19:19:20] [main/INFO]: Found mod file kfflang-4.12.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2b917fb0
+[19:19:20] [main/INFO]: Found mod file luaj-jse-3.0.8-figura.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2b917fb0
+[19:19:20] [main/INFO]: Found mod file luaj-core-3.0.8-figura.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2b917fb0
+[19:19:20] [main/INFO]: Found mod file common-lang-3.12.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2b917fb0
+[19:19:20] [main/INFO]: Found mod file MixinSquared-0.3.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2b917fb0
+[19:19:20] [main/INFO]: Found mod file MixinExtras-0.5.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2b917fb0
+[19:19:20] [main/INFO]: Found mod file mixinextras-forge-0.5.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2b917fb0
+[19:19:20] [main/INFO]: Found mod file mixinsquared-forge-0.3.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2b917fb0
+[19:19:20] [main/INFO]: Found mod file common-io-3.12.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2b917fb0
+[19:19:20] [main/INFO]: Found mod file imageio-metadata-3.12.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2b917fb0
+[19:19:20] [main/INFO]: Found mod file json-0.2.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2b917fb0
+[19:19:20] [main/INFO]: Found mod file imageio-webp-3.12.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2b917fb0
+[19:19:20] [main/INFO]: Found mod file kfflib-4.12.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2b917fb0
+[19:19:20] [main/INFO]: Found mod file gson-0.2.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2b917fb0
+[19:19:20] [main/INFO]: Found mod file kffmod-4.12.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2b917fb0
+[19:19:20] [main/INFO]: Found mod file commons-math3-3.6.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2b917fb0
+[19:19:20] [main/INFO]: Found mod file common-image-3.12.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2b917fb0
+[19:19:20] [main/INFO]: Found mod file imageio-core-3.12.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2b917fb0
+[19:19:22] [main/INFO]: Compatibility level set to JAVA_17
+[19:19:22] [main/ERROR]: Mixin config yacl.mixins.json does not specify "minVersion" property
+[19:19:22] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-47.4.10, --gameDir, C:\Users\steph\curseforge\minecraft\Instances\villager shit, --assetsDir, C:\Users\steph\curseforge\minecraft\Install\assets, --uuid, abcc9d1aa85f4cbcb20ab25f410cb399, --username, whyte_noyze, --assetIndex, 5, --accessToken, ????????, --clientId, YWIyNDJiMjQtMzczNi00OWU3LWFjYTctZTcwMTFkMjE4ZTE5, --xuid, 2535473805375183, --userType, msa, --versionType, release, --width, 1024, --height, 768, --quickPlayPath, C:\Users\steph\curseforge\minecraft\Install\quickPlay\java\1778109557137.json]
+[19:19:22] [main/WARN]: Reference map 'mixins.easy_mob_spawn_control.refmap.json' for mixins.easy_mob_spawn_control.json could not be read. If this is a development environment you can ignore this message
+[19:19:22] [main/WARN]: Error loading class: com/illusivesoulworks/comforts/common/block/BaseComfortsBlock (java.lang.ClassNotFoundException: com.illusivesoulworks.comforts.common.block.BaseComfortsBlock)
+[19:19:22] [main/WARN]: @Mixin target com.illusivesoulworks.comforts.common.block.BaseComfortsBlock was not found undeadnights.mixins.json:BaseComfortBlocksMixin
+[19:19:23] [main/WARN]: Error loading class: dev/emi/emi/EmiUtil (java.lang.ClassNotFoundException: dev.emi.emi.EmiUtil)
+[19:19:23] [main/WARN]: Error loading class: mezz/modnametooltip/TooltipEventHandler (java.lang.ClassNotFoundException: mezz.modnametooltip.TooltipEventHandler)
+[19:19:23] [main/WARN]: Error loading class: me/shedaniel/rei/impl/client/ClientHelperImpl (java.lang.ClassNotFoundException: me.shedaniel.rei.impl.client.ClientHelperImpl)
+[19:19:23] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$Internal)
+[19:19:23] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[19:19:29] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 198 milliseconds
+[19:19:31] [Render thread/WARN]: Assets URL 'union:/C:/Users/steph/curseforge/minecraft/Install/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23180!/assets/.mcassetsroot' uses unexpected schema
+[19:19:31] [Render thread/WARN]: Assets URL 'union:/C:/Users/steph/curseforge/minecraft/Install/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23180!/data/.mcassetsroot' uses unexpected schema
+[19:19:31] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:19:31] [Render thread/INFO]: Setting user: whyte_noyze
+[19:19:32] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[19:19:32] [Render thread/INFO]: Loaded client.properties
+[19:19:32] [modloading-worker-0/INFO]: Loading LexZume...
+[19:19:32] [modloading-worker-0/INFO]: Forge mod loading, version 47.4.10, for MC 1.20.1 with MCP 20230612.114412
+[19:19:32] [modloading-worker-0/INFO]: MinecraftForge v47.4.10 Initialized
+[19:19:32] [modloading-worker-0/INFO]: Registering Item Groups for undeadnights
+[19:19:32] [modloading-worker-0/INFO]: Loaded common.properties
+[19:19:32] [modloading-worker-0/INFO]: Loaded dev.properties
+[19:19:32] [modloading-worker-0/INFO]: Loading undeadnights horde mobs config
+[19:19:32] [modloading-worker-0/INFO]: No target entities specified in horde mob config, no additional entities will be targeted.
+[19:19:32] [modloading-worker-0/INFO]: Default horde mob undeadnights:horde_zombie was read from config.
+[19:19:32] [modloading-worker-0/INFO]: Horde mob undeadnights:elite_zombie with chance 3% was read from config.
+[19:19:32] [modloading-worker-0/INFO]: Horde mob undeadnights:demolition_zombie with chance 6% was read from config.
+[19:19:32] [modloading-worker-0/INFO]: Deserializing YACLConfig from 'C:\Users\steph\curseforge\minecraft\Instances\villager shit\config\yacl.json5'
+[19:19:32] [modloading-worker-0/INFO]: Looking for KubeJS plugins...
+[19:19:32] [modloading-worker-0/INFO]: Registering POI for ResourceKey[minecraft:block / recruits:recruit_block]
+[19:19:32] [modloading-worker-0/INFO]: Registering POI for ResourceKey[minecraft:block / recruits:recruit_shield_block]
+[19:19:32] [modloading-worker-0/INFO]: Registering POI for ResourceKey[minecraft:block / recruits:bowman_block]
+[19:19:32] [modloading-worker-0/INFO]: Registering POI for ResourceKey[minecraft:block / recruits:crossbowman_block]
+[19:19:32] [modloading-worker-0/INFO]: Registering POI for ResourceKey[minecraft:block / recruits:horseman_block]
+[19:19:32] [modloading-worker-0/INFO]: Registering POI for ResourceKey[minecraft:block / recruits:nomad_block]
+[19:19:32] [modloading-worker-0/INFO]: Registering profession for recruit with POI net.minecraftforge.registries.RegistryObject@810c44e9
+[19:19:32] [modloading-worker-0/INFO]: Registering profession for shieldman with POI net.minecraftforge.registries.RegistryObject@73a49efc
+[19:19:32] [modloading-worker-0/INFO]: Registering profession for bowman with POI net.minecraftforge.registries.RegistryObject@ee1298fb
+[19:19:32] [modloading-worker-0/INFO]: Registering profession for crossbowman with POI net.minecraftforge.registries.RegistryObject@278013b
+[19:19:32] [modloading-worker-0/INFO]: Registering profession for horseman with POI net.minecraftforge.registries.RegistryObject@2cde3e08
+[19:19:32] [modloading-worker-0/INFO]: Registering profession for nomad with POI net.minecraftforge.registries.RegistryObject@46c5f19a
+[19:19:32] [modloading-worker-0/INFO]: Found plugin source kubejs
+[19:19:32] [modloading-worker-0/WARN]: Plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration does not have required mod gamestages loaded, skipping
+[19:19:32] [modloading-worker-0/INFO]: Found plugin source tacz
+[19:19:32] [modloading-worker-0/INFO]: Setting current difficulty level to: Level 1
+[19:19:32] [modloading-worker-0/INFO]: Loaded difficulty config with 1 difficulty levels.
+[19:19:32] [modloading-worker-0/INFO]: Done in 41.70 ms
+[19:19:33] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
+[19:19:33] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
+[19:19:33] [modloading-worker-0/INFO]: Loading Rhino Minecraft remapper...
+[19:19:33] [modloading-worker-0/INFO]: Rhino properties loaded.
+[19:19:33] [modloading-worker-0/INFO]: Loading mappings for 1.20.1
+[19:19:33] [modloading-worker-0/INFO]: Done in 0.096 s
+[19:19:33] [modloading-worker-0/INFO]: Kotlin For Forge Enabled!
+[19:19:34] [modloading-worker-0/INFO]: example.js#5: Hello, World! (Loaded startup scripts)
+[19:19:34] [modloading-worker-0/INFO]: Loaded script startup_scripts:example.js in 0.044 s
+[19:19:34] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS startup scripts in 0.539 s with 0 errors and 0 warnings
+[19:19:34] [modloading-worker-0/INFO]: example.js#5: Hello, World! (Loaded client scripts)
+[19:19:34] [modloading-worker-0/INFO]: Loaded script client_scripts:example.js in 0.0 s
+[19:19:34] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS client scripts in 0.018 s with 0 errors and 0 warnings
+[19:19:34] [modloading-worker-0/INFO]: Registering C2S receiver with id kubejs:send_data_from_client
+[19:19:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:send_data_from_server
+[19:19:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:paint
+[19:19:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:add_stage
+[19:19:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:remove_stage
+[19:19:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:sync_stages
+[19:19:34] [modloading-worker-0/INFO]: Registering C2S receiver with id kubejs:first_click
+[19:19:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:toast
+[19:19:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:reload_startup_scripts
+[19:19:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:display_server_errors
+[19:19:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:display_client_errors
+[19:19:40] [Render thread/INFO]: Start scanning for gun packs in C:\Users\steph\curseforge\minecraft\Instances\villager shit\tacz
+[19:19:40] [Render thread/INFO]: - tacz_default_gun, Main namespace: tacz
+[19:19:40] [Render thread/INFO]: Found 1 possible gunpack(s) and added them to resource set.
+[19:19:41] [Render thread/INFO]: Reloading ResourceManager: vanilla, tacz_resources, mod_resources, KubeJS Resource Pack [assets]
+[19:19:41] [modloading-worker-0/WARN]: Configuration file C:\Users\steph\curseforge\minecraft\Instances\villager shit\config\easy_mob_spawn_control-common.toml is not correct. Correcting
+[19:19:41] [modloading-worker-0/WARN]: Incorrect key config_v1 was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:19:41] [modloading-worker-0/WARN]: Incorrect key config_v1.bannedMobs was corrected from null to its default, []. 
+[19:19:41] [modloading-worker-0/WARN]: Incorrect key config_v1.spawnRates was corrected from null to its default, []. 
+[19:19:41] [modloading-worker-0/WARN]: Incorrect key config_v1.spawn_caps_config_v1 was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:19:41] [modloading-worker-0/WARN]: Incorrect key config_v1.spawn_caps_config_v1.spawnCaps was corrected from null to its default, [monster=70, creature=10, ambient=15, axolotls=5, underground_water_creature=5, water_creature=5, water_ambient=20, misc=-1]. 
+[19:19:41] [modloading-worker-0/WARN]: Spawn cap for category misc is -1 (out of 1–350); skipped.
+[19:19:41] [Worker-Main-1/INFO]: Initializing the UndeadNights Mod (common setup)
+[19:19:41] [Worker-Main-10/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[19:19:41] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[19:19:41] [Render thread/INFO]: Client resource reload complete!
+[19:19:42] [Render thread/INFO]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[19:19:42] [Render thread/INFO]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[19:19:42] [Render thread/INFO]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[19:19:42] [Render thread/INFO]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[19:19:42] [Render thread/INFO]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[19:19:42] [Render thread/INFO]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[19:19:42] [Render thread/INFO]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[19:19:42] [Render thread/INFO]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[19:19:42] [Render thread/INFO]: Registered synced data key tacz:throwable_using for minecraft:living_entity
+[19:19:42] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 47.4.10 Target: null
+[19:19:42] [Forge Version Check/INFO]: [recruits] Starting version check at https://raw.githubusercontent.com/talhanation/recruits/main/update.json
+[19:19:42] [Forge Version Check/INFO]: [recruits] Found status: UP_TO_DATE Current: 1.15.0 Target: null
+[19:19:42] [Render thread/INFO]: MenuScreens registered
+[19:19:52] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[19:19:52] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[19:19:52] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on headphones (Realtek(R) Audio)
+[19:19:52] [Render thread/INFO]: Sound engine started
+[19:19:52] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[19:19:52] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[19:19:52] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[19:19:52] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[19:19:52] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[19:19:52] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[19:19:52] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[19:19:52] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[19:19:52] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[19:19:52] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[19:19:52] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[19:19:52] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[19:19:52] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[19:19:58] [Render thread/WARN]: The following mods have version differences that were not resolved:
+mobblocker (version 1.0.0 -> MISSING)
+Things may not work well.
+[19:19:58] [Render thread/INFO]: Injecting existing registry data into this CLIENT instance
+[19:19:58] [Render thread/INFO]: Start scanning for gun packs in C:\Users\steph\curseforge\minecraft\Instances\villager shit\tacz
+[19:19:58] [Render thread/INFO]: - tacz_default_gun, Main namespace: tacz
+[19:19:58] [Render thread/INFO]: Found 1 possible gunpack(s) and added them to resource set.
+[19:19:58] [Render thread/WARN]: Missing data pack mod:mobblocker
+[19:19:58] [Render thread/INFO]: example.js#5: Hello, World! (Loaded server scripts)
+[19:19:58] [Render thread/INFO]: Loaded script server_scripts:example.js in 0.001 s
+[19:19:58] [Render thread/INFO]: Loaded 1/1 KubeJS server scripts in 0.008 s with 0 errors and 0 warnings
+[19:19:58] [Render thread/INFO]: Scripts loaded
+[19:19:59] [Render thread/INFO]: Loaded 8 recipes
+[19:19:59] [Render thread/INFO]: Loaded 1271 advancements
+[19:20:00] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[19:20:00] [Server thread/INFO]: Generating keypair
+[19:20:00] [Server thread/INFO]: Loading undeadnights server config
+[19:20:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:20:01] [Server thread/INFO]: Server resource reload complete!
+[19:20:02] [Render thread/INFO]: Preparing spawn area: 0%
+[19:20:02] [Render thread/INFO]: Preparing spawn area: 0%
+[19:20:02] [Render thread/INFO]: Preparing spawn area: 0%
+[19:20:02] [Render thread/INFO]: Preparing spawn area: 0%
+[19:20:03] [Render thread/INFO]: Preparing spawn area: 0%
+[19:20:03] [Render thread/INFO]: Preparing spawn area: 68%
+[19:20:03] [Server thread/INFO]: Successfully initialized permission handler forge:default_handler
+[19:20:03] [Server thread/INFO]: Initializing the UndeadNights Mod (server starting)
+[19:20:03] [Render thread/INFO]: Time elapsed: 2631 ms
+[19:20:03] [Server thread/INFO]: Changing view distance to 15, from 10
+[19:20:03] [Server thread/INFO]: Changing simulation distance to 15, from 0
+[19:20:04] [Render thread/WARN]: Unable to parse the boolean system property 'java.net.preferIPv6Addresses':system - using the default value: false
+[19:20:05] [Netty Local Client IO #0/INFO]: Connected to a modded server.
+[19:20:05] [Server thread/INFO]: whyte_noyze[local:E:bb91b25e] logged in with entity id 116 at (-13877.788330124728, 62.0, -9305.326062906126)
+[19:20:05] [Server thread/INFO]: whyte_noyze joined the game
+[19:20:06] [Render thread/INFO]: Loaded 11 advancements
+[19:20:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2763ms or 55 ticks behind
+[19:20:08] [Server thread/INFO]: Saving and pausing game...
+[19:20:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[19:20:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[19:20:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[19:20:14] [Server thread/INFO]: Saving and pausing game...
+[19:20:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[19:20:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[19:20:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[19:21:39] [Render thread/INFO]: whyte_noyze is opening command container for abcc9d1a-a85f-4cbc-b20a-b25f410cb399
+[19:21:39] [Render thread/INFO]: Player is LocalPlayer['whyte_noyze'/116, l='ClientLevel', x=-13876.12, y=62.00, z=-9310.21]
+[19:21:39] [Render thread/INFO]: whyte_noyze is opening command container for abcc9d1a-a85f-4cbc-b20a-b25f410cb399
+[19:21:39] [Render thread/INFO]: Player is LocalPlayer['whyte_noyze'/116, l='ClientLevel', x=-13874.57, y=62.00, z=-9310.66]
+[19:23:34] [Render thread/INFO]: Loaded 15 advancements
+[19:23:36] [Server thread/INFO]: whyte_noyze has made the advancement [Enchanter]
+[19:23:36] [Render thread/INFO]: [System] [CHAT] whyte_noyze has made the advancement [Enchanter]
+[19:23:36] [Render thread/INFO]: Loaded 22 advancements
+[19:23:59] [Render thread/INFO]: Loaded 24 advancements
+[19:24:38] [Render thread/INFO]: whyte_noyze is opening command container for abcc9d1a-a85f-4cbc-b20a-b25f410cb399
+[19:24:38] [Render thread/INFO]: Player is LocalPlayer['whyte_noyze'/116, l='ClientLevel', x=-13891.70, y=76.00, z=-9331.44]
+[19:25:08] [Server thread/INFO]: [whyte_noyze: Set own game mode to Spectator Mode]
+[19:25:08] [Render thread/INFO]: [System] [CHAT] Set own game mode to Spectator Mode
+[19:25:48] [Render thread/INFO]: whyte_noyze is opening command container for abcc9d1a-a85f-4cbc-b20a-b25f410cb399
+[19:25:48] [Render thread/INFO]: Player is LocalPlayer['whyte_noyze'/116, l='ClientLevel', x=-13917.39, y=65.79, z=-9277.71]
+[19:26:49] [Server thread/INFO]: [whyte_noyze: Set the time to 13000]
+[19:26:49] [Render thread/INFO]: [System] [CHAT] Set the time to 13000
+[19:26:52] [Server thread/INFO]: [whyte_noyze: Set the time to 13563]
+[19:26:52] [Render thread/INFO]: [System] [CHAT] Set the time to 13563
+[19:26:59] [Server thread/INFO]: [whyte_noyze: Set own game mode to Creative Mode]
+[19:26:59] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[19:27:28] [Render thread/INFO]: whyte_noyze is opening command container for abcc9d1a-a85f-4cbc-b20a-b25f410cb399
+[19:27:28] [Render thread/INFO]: Player is LocalPlayer['whyte_noyze'/116, l='ClientLevel', x=-13868.49, y=62.22, z=-9291.79]
+[19:27:53] [Render thread/INFO]: whyte_noyze is opening command container for abcc9d1a-a85f-4cbc-b20a-b25f410cb399
+[19:27:53] [Render thread/INFO]: Player is LocalPlayer['whyte_noyze'/116, l='ClientLevel', x=-13891.23, y=73.69, z=-9291.25]
+[19:27:57] [Render thread/WARN]: Received passengers for unknown entity
+[19:28:11] [Server thread/INFO]: Saving and pausing game...
+[19:28:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[19:28:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[19:28:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[19:29:06] [Server thread/INFO]: Villager Villager['Villager'/4879, l='ServerLevel[New World]', x=-13900.50, y=72.44, z=-9279.50] died, message: 'Villager went up in flames'
+[19:29:06] [Render thread/INFO]: Villager Villager['Villager'/4879, l='ClientLevel', x=-13900.50, y=72.44, z=-9279.50] died, message: 'Villager died'
+[19:30:08] [Server thread/INFO]: Villager Villager['Villager'/5200, l='ServerLevel[New World]', x=-13901.25, y=62.00, z=-9295.47] died, message: 'Villager was slain by Horde Zombie'
+[19:30:16] [Server thread/INFO]: Villager Villager['Villager'/5334, l='ServerLevel[New World]', x=-13886.61, y=62.00, z=-9289.39] died, message: 'Villager was slain by Horde Zombie'
+[19:30:28] [Server thread/INFO]: Villager Villager['Villager'/5297, l='ServerLevel[New World]', x=-13911.11, y=62.00, z=-9282.69] died, message: 'Villager was slain by Horde Zombie'
+[19:30:32] [Server thread/INFO]: Villager Villager['Villager'/5068, l='ServerLevel[New World]', x=-13889.07, y=62.59, z=-9284.77] died, message: 'Villager was slain by Demolition Zombie'
+[19:30:32] [Server thread/INFO]: Villager Villager['Villager'/5259, l='ServerLevel[New World]', x=-13903.50, y=62.00, z=-9287.64] died, message: 'Villager was slain by Demolition Zombie'
+[19:30:35] [Server thread/INFO]: Villager Villager['Villager'/5007, l='ServerLevel[New World]', x=-13895.18, y=62.00, z=-9285.67] died, message: 'Villager was slain by Demolition Zombie'
+[19:30:36] [Server thread/INFO]: Villager Villager['Villager'/5024, l='ServerLevel[New World]', x=-13888.36, y=62.00, z=-9293.38] died, message: 'Villager was slain by Demolition Zombie'
+[19:30:37] [Server thread/INFO]: Villager Villager['Villager'/5339, l='ServerLevel[New World]', x=-13879.18, y=68.00, z=-9295.89] died, message: 'Villager was slain by Horde Zombie'
+[19:30:42] [Server thread/INFO]: Villager Villager['Villager'/5080, l='ServerLevel[New World]', x=-13906.98, y=62.00, z=-9317.09] died, message: 'Villager was slain by Demolition Zombie'
+[19:30:42] [Server thread/INFO]: Villager Villager['Villager'/5162, l='ServerLevel[New World]', x=-13926.15, y=65.18, z=-9301.70] died, message: 'Villager was slain by Demolition Zombie'
+[19:30:43] [Server thread/INFO]: Villager Villager['Villager'/4902, l='ServerLevel[New World]', x=-13901.78, y=62.00, z=-9287.82] died, message: 'Villager was slain by Demolition Zombie'
+[19:30:43] [Server thread/INFO]: [whyte_noyze: Set own game mode to Survival Mode]
+[19:30:43] [Render thread/INFO]: [System] [CHAT] Set own game mode to Survival Mode
+[19:30:43] [Server thread/INFO]: Villager Villager['Villager'/5257, l='ServerLevel[New World]', x=-13901.53, y=66.02, z=-9269.83] died, message: 'Villager was slain by Horde Zombie'
+[19:30:45] [Server thread/INFO]: Villager Villager['Villager'/5243, l='ServerLevel[New World]', x=-13894.87, y=64.00, z=-9275.55] died, message: 'Villager was slain by Demolition Zombie'
+[19:30:46] [Server thread/INFO]: Villager Villager['Villager'/5059, l='ServerLevel[New World]', x=-13924.70, y=62.56, z=-9285.25] died, message: 'Villager was slain by Demolition Zombie'
+[19:30:50] [Server thread/INFO]: Villager Villager['Villager'/3592, l='ServerLevel[New World]', x=-13890.49, y=64.77, z=-9319.84] died, message: 'Villager was slain by Demolition Zombie'
+[19:30:51] [Server thread/INFO]: Villager Villager['Farmer'/4985, l='ServerLevel[New World]', x=-13906.41, y=65.00, z=-9311.77] died, message: 'Farmer was slain by Demolition Zombie'
+[19:30:52] [Render thread/INFO]: whyte_noyze is opening command container for abcc9d1a-a85f-4cbc-b20a-b25f410cb399
+[19:30:52] [Render thread/INFO]: Player is LocalPlayer['whyte_noyze'/116, l='ClientLevel', x=-13908.97, y=68.00, z=-9293.15]
+[19:30:52] [Server thread/INFO]: Villager Villager['Villager'/5354, l='ServerLevel[New World]', x=-13907.70, y=62.00, z=-9315.49] died, message: 'Villager was slain by Demolition Zombie'
+[19:30:54] [Server thread/INFO]: Villager Villager['Villager'/5341, l='ServerLevel[New World]', x=-13867.19, y=62.84, z=-9272.31] died, message: 'Villager was slain by Zombie Villager'
+[19:30:55] [Server thread/INFO]: Villager Villager['Villager'/5041, l='ServerLevel[New World]', x=-13910.59, y=65.00, z=-9310.62] died, message: 'Villager was slain by Zombie Villager'
+[19:31:00] [Server thread/INFO]: Villager Villager['Villager'/4997, l='ServerLevel[New World]', x=-13909.96, y=62.00, z=-9311.35] died, message: 'Villager was slain by Elite Zombie'
+[19:31:10] [Server thread/INFO]: Villager Villager['Villager'/3562, l='ServerLevel[New World]', x=-13916.27, y=71.00, z=-9247.90] died, message: 'Villager was slain by Horde Zombie'
+[19:31:10] [Server thread/INFO]: Villager Villager['Villager'/4912, l='ServerLevel[New World]', x=-13877.62, y=68.00, z=-9298.27] died, message: 'Villager was slain by Horde Zombie'
+[19:31:11] [Server thread/INFO]: Villager Villager['Villager'/5186, l='ServerLevel[New World]', x=-13860.36, y=62.00, z=-9326.39] died, message: 'Villager was slain by Demolition Zombie'
+[19:31:14] [Server thread/INFO]: Villager Villager['Butcher'/5126, l='ServerLevel[New World]', x=-13918.30, y=66.00, z=-9324.70] died, message: 'Butcher was slain by Demolition Zombie'
+[19:31:15] [Render thread/INFO]: whyte_noyze is opening hire container for 3b40c63a-ea7e-4f87-9084-ac809520705a
+[19:31:15] [Render thread/INFO]: Player is LocalPlayer['whyte_noyze'/116, l='ClientLevel', x=-13908.32, y=62.00, z=-9288.47]
+[19:31:15] [Render thread/INFO]: [System] [CHAT] Recruit: Hello my friend.
+[19:31:15] [Render thread/INFO]: whyte_noyze is opening hire container for 3b40c63a-ea7e-4f87-9084-ac809520705a
+[19:31:15] [Render thread/INFO]: Player is LocalPlayer['whyte_noyze'/116, l='ClientLevel', x=-13908.32, y=62.00, z=-9288.47]
+[19:31:15] [Render thread/INFO]: [System] [CHAT] Recruit: Everything all right?
+[19:31:15] [Server thread/INFO]: Villager Villager['Villager'/3581, l='ServerLevel[New World]', x=-13856.30, y=62.91, z=-9327.46] died, message: 'Villager was slain by Demolition Zombie'
+[19:31:16] [Render thread/INFO]: [System] [CHAT] Recruit: : You need 4 Emerald to recruit me!
+[19:31:16] [Server thread/INFO]: whyte_noyze was slain by Demolition Zombie
+[19:31:16] [Render thread/INFO]: [System] [CHAT] whyte_noyze was slain by Demolition Zombie
+[19:31:16] [Render thread/INFO]: Loaded 52 advancements
+[19:31:16] [Server thread/INFO]: Villager Villager['Villager'/5107, l='ServerLevel[New World]', x=-13913.72, y=65.00, z=-9323.41] died, message: 'Villager was slain by Demolition Zombie'
+[19:31:21] [Server thread/INFO]: Saving and pausing game...
+[19:31:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[19:31:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[19:31:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[19:31:22] [Server thread/INFO]: whyte_noyze lost connection: Disconnected
+[19:31:22] [Server thread/INFO]: whyte_noyze left the game
+[19:31:22] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[19:31:22] [Server thread/INFO]: Stopping server
+[19:31:22] [Server thread/INFO]: Saving players
+[19:31:22] [Server thread/INFO]: Saving worlds
+[19:31:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[19:31:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[19:31:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[19:31:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[19:31:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:31:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:31:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:31:23] [Server thread/INFO]: Loading undeadnights server config
+[19:31:24] [Render thread/INFO]: Stopping!
